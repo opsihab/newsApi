@@ -1,0 +1,18 @@
+.img{
+    max-width: 39%;
+}
+
+.oi{
+    margin-left: auto;
+}
+
+.pp{
+    color: red;
+}
+
+header{
+    border-bottom: 1px solid rgba(126, 126, 126, 0.401);
+}
+.active{
+    color: blue;
+}
